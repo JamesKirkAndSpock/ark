@@ -44,6 +44,7 @@ jobs:
           name: run tests
           command: |
             . venv/bin/activate
+            cd noahs_ark
             python manage.py test
 
       - store_artifacts:
