@@ -1,0 +1,10 @@
+# Ingore environment files and folders
+env/
+.DS_Store
+_DS_Store
+.vscode/
+__pycache__/
+# Ignore database
+db.sqlite3
+# Ignore migrations
+migrations/
