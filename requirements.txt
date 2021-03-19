@@ -12,7 +12,7 @@ django-appconf==1.0.1
 django-compressor==2.1
 django-moneyfield==0.2.1
 django-ses-backend==0.1.1
-djangorestframework==3.7.3
+djangorestframework==3.11.2
 djmail==0.11.0
 docopt==0.6.2
 docutils==0.14
